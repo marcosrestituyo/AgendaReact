@@ -1,0 +1,13 @@
+.card{
+    margin: 10px;
+    width: 300px;
+    float: left;
+}
+
+.Formulario{
+    width: 50%;
+    margin: 20px;
+}
+button{
+    margin: 10px;
+}
